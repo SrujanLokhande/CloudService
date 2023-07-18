@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"eebd8688-7728-4553-adc4-40557eedd865\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Speed\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 5.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"5ce7ade1-9030-4eca-8292-db2e48046799\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"Payer\",\r\n      \"type\": \"json\",\r\n      \"schemaId\": null,\r\n     
+    \"value\": {\r\n        \"Speed\": 6,\r\n        \"TurnSpeed\": 3,\r\n       
+    \"JumpHeight\": 4\r\n      }\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"44607441-fb0f-46a9-a2a0-a724e34a5026\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"Platforms\",\r\n      \"type\": \"json\",\r\n      \"schemaId\":
+    null,\r\n      \"value\": {\r\n        \"PlatformKist\": [\r\n          {\r\n           
+    \"Speed\": 1,\r\n            \"EasingDistance\": 0.5,\r\n            \"Points\":
+    [\r\n              {\r\n                \"x\": 0,\r\n                \"y\": 0,\r\n               
+    \"z\": 0\r\n              },\r\n              {\r\n                \"x\": 0,\r\n               
+    \"y\": 0,\r\n                \"z\": 0\r\n              },\r\n              {\r\n               
+    \"x\": 0,\r\n                \"y\": 0,\r\n                \"z\": 0\r\n             
+    }\r\n            ]\r\n          },\r\n          {\r\n            \"Speed\": 1,\r\n           
+    \"EasingDistance\": 0.5,\r\n            \"Points\": [\r\n              {\r\n               
+    \"x\": 0,\r\n                \"y\": 0,\r\n                \"z\": 0\r\n             
+    },\r\n              {\r\n                \"x\": 0,\r\n                \"y\":
+    0,\r\n                \"z\": 0\r\n              },\r\n              {\r\n               
+    \"x\": 0,\r\n                \"y\": 0,\r\n                \"z\": 0\r\n             
+    }\r\n            ]\r\n          }\r\n        ]\r\n      }\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"eebd8688-7728-4553-adc4-40557eedd865\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Speed\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 5.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"5ce7ade1-9030-4eca-8292-db2e48046799\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"Payer\",\r\n      \"type\": \"json\",\r\n      \"schemaId\": null,\r\n     
+    \"value\": {\r\n        \"Speed\": 6,\r\n        \"TurnSpeed\": 3,\r\n       
+    \"JumpHeight\": 4\r\n      }\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"44607441-fb0f-46a9-a2a0-a724e34a5026\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"Platforms\",\r\n      \"type\": \"json\",\r\n      \"schemaId\":
+    null,\r\n      \"value\": {\r\n        \"PlatformKist\": [\r\n          {\r\n           
+    \"Speed\": 1,\r\n            \"EasingDistance\": 0.5,\r\n            \"Points\":
+    [\r\n              {\r\n                \"x\": 0,\r\n                \"y\": 0,\r\n               
+    \"z\": 0\r\n              },\r\n              {\r\n                \"x\": 0,\r\n               
+    \"y\": 0,\r\n                \"z\": 0\r\n              },\r\n              {\r\n               
+    \"x\": 0,\r\n                \"y\": 0,\r\n                \"z\": 0\r\n             
+    }\r\n            ]\r\n          },\r\n          {\r\n            \"Speed\": 1,\r\n           
+    \"EasingDistance\": 0.5,\r\n            \"Points\": [\r\n              {\r\n               
+    \"x\": 0,\r\n                \"y\": 0,\r\n                \"z\": 0\r\n             
+    },\r\n              {\r\n                \"x\": 0,\r\n                \"y\":
+    0,\r\n                \"z\": 0\r\n              },\r\n              {\r\n               
+    \"x\": 0,\r\n                \"y\": 0,\r\n                \"z\": 0\r\n             
+    }\r\n            ]\r\n          }\r\n        ]\r\n      }\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"a2db05fb-03c4-424d-ac21-f189c578f293\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"63005553-73db-4780-a8ad-83bad330f39d\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2023-06-30T17:57:58Z\",\r\n    \"updatedAt\":
+    \"2023-06-30T17:57:58Z\"\r\n  },\r\n  {\r\n    \"projectId\": \"a2db05fb-03c4-424d-ac21-f189c578f293\",\r\n   
+    \"name\": \"development\",\r\n    \"id\": \"1788c053-4567-4556-9137-9b3f7345db10\",\r\n   
+    \"isDefault\": false,\r\n    \"createdAt\": \"2023-06-30T18:36:32Z\",\r\n   
+    \"updatedAt\": \"2023-06-30T18:36:32Z\"\r\n  },\r\n  {\r\n    \"projectId\":
+    \"a2db05fb-03c4-424d-ac21-f189c578f293\",\r\n    \"name\": \"demo\",\r\n    \"id\":
+    \"1e42e1b4-1b05-41b4-8292-e8f30eb53821\",\r\n    \"isDefault\": false,\r\n   
+    \"createdAt\": \"2023-06-30T18:36:39Z\",\r\n    \"updatedAt\": \"2023-06-30T18:36:39Z\"\r\n 
+    }\r\n]"
